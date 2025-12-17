@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PetShop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PetShop_jar</output-path>
+    <root id="archive" name="PetShop.jar">
+      <element id="module-output" name="PetShop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/sqlite-jdbc-master/target/sqlite-jdbc-3.50.3.1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/jdk.jsobject.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/jfx.incubator.input.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-24.0.2/lib/jfx.incubator.richtext.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/style.css" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>

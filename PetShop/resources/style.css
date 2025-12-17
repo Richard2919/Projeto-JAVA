@@ -1,0 +1,22 @@
+.root {
+    -fx-background-image: url("/background.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.menu-button {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-color: rgba(52, 152, 219, 0.9);
+    -fx-background-radius: 10;
+    -fx-padding: 15 40;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.4), 6, 0.5, 0, 2);
+    -fx-font-family: "Segoe UI", "Roboto", sans-serif;
+}
+
+.menu-button:hover {
+    -fx-background-color: rgba(41, 128, 185, 0.9);
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.6), 8, 0.5, 0, 3);
+}

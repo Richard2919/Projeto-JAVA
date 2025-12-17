@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula/Aula.iml" filepath="$PROJECT_DIR$/Aula/Aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conversor/Conversor.iml" filepath="$PROJECT_DIR$/Conversor/Conversor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudos/Estudos.iml" filepath="$PROJECT_DIR$/Estudos/Estudos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Forca/Forca.iml" filepath="$PROJECT_DIR$/Forca/Forca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PetShop/PetShop.iml" filepath="$PROJECT_DIR$/PetShop/PetShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program/Program.iml" filepath="$PROJECT_DIR$/Program/Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program1/Program1.iml" filepath="$PROJECT_DIR$/Program1/Program1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoPai/ProjetoPai.iml" filepath="$PROJECT_DIR$/ProjetoPai/ProjetoPai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tela/Tela.iml" filepath="$PROJECT_DIR$/Tela/Tela.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetor/Vetor.iml" filepath="$PROJECT_DIR$/Vetor/Vetor.iml" />
+    </modules>
+  </component>
+</project>
