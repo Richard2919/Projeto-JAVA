@@ -1,31 +1,31 @@
 package app;
 
 import entitis.Account;
-import entitis.BisnessAccount;
+import entitis.BusinessAccount;
 import entitis.SavingsAccount;
 
 public class Main {
     public static void main(String[] args) {
 
-        BisnessAccount account = new BisnessAccount();
+        BusinessAccount account = new BusinessAccount();
 
         Account acc = new Account(1001, "Alex", 0.0);
-        BisnessAccount bacc = new BisnessAccount(1002, "Maria", 0.0, 500.0);
+        BusinessAccount bacc = new BusinessAccount(1002, "Maria", 0.0, 500.0);
 
         //upcasting
 
         Account acc1 = bacc;
-        Account acc2 = new BisnessAccount(1003, "Bob", 0.0, 200.0);
+        Account acc2 = new BusinessAccount(1003, "Bob", 0.0, 200.0);
         Account acc3 = new SavingsAccount(1004, "Ana", 0.0, 0.01);
 
         // downcasting
 
-        BisnessAccount acc4 = (BisnessAccount)acc2;
+        BusinessAccount acc4 = (BusinessAccount)acc2;
         acc4.loan(100.0);
 
        // BisnessAccount acc5 = (BisnessAccount)acc3; //acc3 é uma SavingsAccount e não Bisness entao da erro
-        if(acc3 instanceof BisnessAccount){
-            BisnessAccount acc5 = (BisnessAccount)acc3;
+        if(acc3 instanceof BusinessAccount){
+            BusinessAccount acc5 = (BusinessAccount)acc3;
             acc5.loan(200);
             System.out.println("Loan!");
         }
